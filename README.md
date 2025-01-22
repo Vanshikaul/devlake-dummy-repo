@@ -5,3 +5,5 @@ This repository is used for testing Apache DevLake integration.
 1. Adding dummy commits.
 
 2. Adding dummy commits.
+
+3. Adding dummy commits.
